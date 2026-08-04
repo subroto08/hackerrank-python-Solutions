@@ -2,81 +2,33 @@
 
 This repository contains my solutions to HackerRank Python challenges.
 
-The purpose of this repository is to improve my problem-solving skills, strengthen my understanding of Python, and track my learning progress.
+I created this repository to document my Python learning journey, improve my problem-solving skills, and practice coding consistently.
 
----
+## 💻 Platform
 
-## 📌 About
+- HackerRank
 
-- 💻 Platform: HackerRank
-- 🐍 Language: Python 3
-- 🎯 Goal: Improve problem-solving and coding skills
-- 📚 Status: Continuously updating
+## 🐍 Language
 
----
+- Python 3
 
-## 📂 Topics Covered
+## 📂 Repository
 
-- Introduction
-- Basic Data Types
-- Strings
-- Lists
-- Tuples
-- Sets
-- Collections
-- Itertools
-- Date and Time
-- Errors and Exceptions
-- Built-ins
-- Python Functionals
-- Regex and Parsing
-- XML
-- Closures and Decorators
-- NumPy
+Each Python file contains the solution to a HackerRank challenge.
 
----
+The repository is updated regularly as I solve new problems.
 
-## 📁 Repository Structure
+## 🎯 Goals
 
-```
-Python/
-├── Introduction/
-├── Basic Data Types/
-├── Strings/
-├── Sets/
-├── Collections/
-├── Itertools/
-├── Date and Time/
-├── Errors and Exceptions/
-├── Built-ins/
-├── Python Functionals/
-├── Regex and Parsing/
-├── XML/
-├── Closures and Decorators/
-└── NumPy/
-```
-
----
+- Improve Python programming skills
+- Develop problem-solving abilities
+- Practice writing clean and readable code
+- Prepare for coding interviews
 
 ## 🚀 Progress
 
-✔ Solving HackerRank Python challenges regularly.
-
-This repository is updated whenever I complete new challenges.
-
----
-
-## 🎯 Objectives
-
-- Write clean and readable Python code
-- Learn Python best practices
-- Strengthen algorithmic thinking
-- Improve coding interview preparation
-
----
+✔ Continuously solving HackerRank Python challenges.
 
 ## 🤝 Feedback
 
-If you have suggestions for improving my solutions, feel free to open an issue or submit a pull request.
-
-Happy Coding! 🚀
+Suggestions and improvements are always welcome.
